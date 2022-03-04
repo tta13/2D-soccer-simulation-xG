@@ -1,0 +1,7 @@
+# RocoCup log files
+*.rcg
+*.rcl
+*.gz
+
+# Py cache
+__pycache__
