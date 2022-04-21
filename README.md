@@ -15,7 +15,7 @@ The datasets are separated because the Anonymous Challenge produced more random 
 * goal: was it a goal?
 
 ## Model
-Implemented used the logistic function, using the 2019+2021 dataset, it is built on the variables _angle_, _distance_ and _players_in_between_, since those minimized the p-values from the model and gave it good predictive power.
+Implemented used the logistic function, using the 2019+2021 dataset, it is built on the variables _x_, _angle_, _distance_ and _players_in_between_, since those were all statistically signifcant for the model and gave it reasonable predictive power.
 
 ## What can improve?
 * Shooting identification algorithm
